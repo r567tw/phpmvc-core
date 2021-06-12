@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace r567tw\phpmvc;
 
 abstract class DBModel extends Model
 {

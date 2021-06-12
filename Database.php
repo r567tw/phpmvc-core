@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace r567tw\phpmvc;
 
 use PDO;
 

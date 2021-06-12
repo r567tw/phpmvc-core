@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace r567tw\phpmvc\form;
 
-use app\core\Model;
+use r567tw\phpmvc\Model;
 
 class Field extends BaseField
 {
