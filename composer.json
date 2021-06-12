@@ -7,5 +7,10 @@
             "email": "r567tw@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "r567tw\\phpmvc\\": "./"
+        }
+    }
 }
