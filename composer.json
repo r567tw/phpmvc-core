@@ -1,0 +1,11 @@
+{
+    "name": "r567tw/phpmvc-core",
+    "description": "php framework by practice",
+    "authors": [
+        {
+            "name": "r567tw",
+            "email": "r567tw@gmail.com"
+        }
+    ],
+    "require": {}
+}
